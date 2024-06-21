@@ -1,6 +1,8 @@
 DOMAIN,aistudio.google.com
 DOMAIN,gemini.google.com
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,anthropic
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com

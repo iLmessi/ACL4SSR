@@ -1,0 +1,8 @@
+payload:
+  # 内容：emby
+  # 数量：5
+  - DOMAIN,emby2.misakaf.org
+  - DOMAIN,emby.pilipiliultra.com
+  - DOMAIN,emby.pilipiliultra.top
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,embyplus.org

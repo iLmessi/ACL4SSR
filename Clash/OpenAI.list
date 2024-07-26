@@ -2,6 +2,7 @@ DOMAIN,ai.google.dev
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,aistudio.google.com
 DOMAIN,gemini.google.com
+DOMAIN-KEYWORD,ciciai
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,claude.ai

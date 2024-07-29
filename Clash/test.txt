@@ -1,0 +1,16 @@
+proxies:
+  - {name: 新加坡 1, server: cn01.surfgb.org, port: 5021, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 新加坡 2, server: cn01.surfgb.org, port: 5022, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 新加坡 3, server: cn01.surfgb.org, port: 5023, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 新加坡 4, server: cn01.surfgb.org, port: 5024, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 新加坡 5, server: cn01.surfgb.org, port: 5025, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 香港 1, server: cn01.surfgb.org, port: 5001, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 香港 2, server: cn01.surfgb.org, port: 5002, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 香港 3, server: cn01.surfgb.org, port: 5003, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 香港 4, server: cn01.surfgb.org, port: 5004, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 香港 5, server: cn01.surfgb.org, port: 5005, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 香港 6, server: cn01.surfgb.org, port: 5006, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 香港 7, server: cn01.surfgb.org, port: 5007, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 香港 8, server: cn01.surfgb.org, port: 5008, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 香港 9, server: cn01.surfgb.org, port: 5009, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 香港 10, server: cn01.surfgb.org, port: 5010, type: vmess, uuid: bc18cfe8-e369-4afe-8e19-cfe4173b1e32, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}

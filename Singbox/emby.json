@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "emby.pilipiliultra.com",
+        "emby.pilipiliultra.top",
+        "emby.aca.best"
+      ],
+      "domain_suffix": [
+        "stream1.misakaf.org",
+        "stream2.misakaf.org",
+        "stream3.misakaf.org",
+        "misakaf.org",
+        "emby.wtf",
+        "embyplus.org"
+      ],
+      "domain_keyword": ["openai"]
+    }
+  ]
+}

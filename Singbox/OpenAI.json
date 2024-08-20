@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "alkalicore-pa.clients6.google.com",
+        "alkalimakersuite-pa.clients6.google.com",
+        "gateway.ai.cloudflare.com",
+        "aistudio.google.com"
+      ],
+      "domain_suffix": [
+        "lmsys.org",
+        "coze.com",
+        "fuclaude.com",
+        "ciciai.com",
+        "ciciaicdn.com",
+        "client-api.arkoselabs.com",
+        "openai.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "ai.com",
+        "x.ai",
+        "perplexity.ai",
+        "anthropic.com",
+        "bard.google.com",
+        "deepmind.com",
+        "deepmind.google",
+        "geller-pa.googleapis.com",
+        "proactivebackend-pa.googleapis.com",
+        "makersuite.google.com",
+        "generativeai.google",
+        "poe.com",
+        "meta.ai"
+      ],
+      "domain_keyword": [
+        "openai",
+        "anthropic"
+      ]
+    }
+  ]
+}
